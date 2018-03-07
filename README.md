@@ -12,9 +12,9 @@
 
 ## Sample Input:
 
-	ln				dob			gn	fn 
-	Frometa Garo	14/03/1997	M	Vladimir Antonio
-	Frometa Garo	14/03/1997	M	Vladimir A
+	ln			dob		gn	fn 
+	Frometa Garo		14/03/1997	M	Vladimir Antonio
+	Frometa Garo		14/03/1997	M	Vladimir A
 	Frometa			14/03/1997	M	Vladimir
 	Frometa G		14/03/1997	M	Vladimir
 	Frometa			14/03/1997	M	Vladimir A 
@@ -22,7 +22,7 @@
 
 ## Sample Output:
 	
-	ln			dob			gn	fn
+	ln		dob		gn	fn
 	Frometa	G	14/03/1997	F	Vladimir A
 
 ### FOR RETRAINING DELETE THE FILE NAMED: 
